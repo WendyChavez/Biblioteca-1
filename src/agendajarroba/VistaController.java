@@ -27,6 +27,7 @@ public class VistaController implements Initializable {
     @FXML private Button modificarBT;
     @FXML private Button eliminarBT;
     @FXML private Button nuevoBT;
+    //dfhjgj
     
     // Declaramos los textfileds
     @FXML private TextField nombreTF;

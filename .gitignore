@@ -164,3 +164,4 @@ build/
 
 #NDK
 obj/
+/nbproject/private/
