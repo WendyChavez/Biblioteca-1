@@ -1,7 +1,7 @@
 package Persona;
 
 public class Persona {
-    
+    //comnetario prueba
     private String nombre;
     private String apellido;
     private int edad;
